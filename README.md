@@ -21,7 +21,7 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://naupahouse.com)
+[**Visit our status website →**](https://nigr0mante.github.io/upptime/)
 
 ## 📄 License
 
