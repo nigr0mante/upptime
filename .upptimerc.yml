@@ -24,7 +24,7 @@ status-website:
   introMessage: This tool is the open-source uptime monitor and status page, powered entirely by GitHub. More info at the bottom.
   navbar:
     - title: Status
-      href: /
+      href: /upptime
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
