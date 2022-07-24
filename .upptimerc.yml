@@ -5,8 +5,10 @@ repo: upptime # The name of this repository
 sites:
   - name: Naupa House
     url: https://naupahouse.com
+    icon: https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/sony/336/bed_1f6cf-fe0f.png
   - name: Coffee Senses (testing)
     url: http://coffee.naupahouse.com
+    icon: https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/sony/336/hot-beverage_2615.png
 
 assignees: # Users to assign downtime issues (optional)
   - nigr0mante
@@ -17,6 +19,7 @@ status-website:
   #cname: https://nigr0mante.github.io/upptime/
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  favicon: https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/sony/336/robot_1f916.png
   name: Upptime for Ivo services
   introTitle: "**Upptime** for Ivonne's services"
   introMessage: This tool is the open-source uptime monitor and status page, powered entirely by GitHub. More info at the bottom.
