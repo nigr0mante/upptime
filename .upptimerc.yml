@@ -16,7 +16,7 @@ assignees: # Users to assign downtime issues (optional)
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: https://upptime.naupahouse.com
+  cname: upptime.naupahouse.com
   #baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   favicon: https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/sony/336/robot_1f916.png
