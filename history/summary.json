@@ -4,7 +4,7 @@
     "url": "https://naupahouse.com",
     "icon": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/sony/336/bed_1f6cf-fe0f.png",
     "slug": "naupa-house",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1125,
     "timeMonth": 1186,
     "timeYear": 1163,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-02": 0
+    }
   },
   {
     "name": "Coffee Senses (testing)",
