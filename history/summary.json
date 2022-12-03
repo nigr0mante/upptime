@@ -5,18 +5,19 @@
     "icon": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/sony/336/bed_1f6cf-fe0f.png",
     "slug": "naupa-house",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.59%",
+    "uptimeDay": "45.99%",
+    "uptimeWeek": "92.28%",
+    "uptimeMonth": "98.22%",
+    "uptimeYear": "99.59%",
     "time": 1163,
-    "timeDay": 1030,
-    "timeWeek": 1125,
-    "timeMonth": 1186,
+    "timeDay": 0,
+    "timeWeek": 1141,
+    "timeMonth": 1185,
     "timeYear": 1163,
     "dailyMinutesDown": {
-      "2022-12-02": 0
+      "2022-12-03": 37,
+      "2022-12-02": 741
     }
   },
   {
@@ -31,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 298,
-    "timeDay": 207,
-    "timeWeek": 268,
-    "timeMonth": 292,
+    "timeDay": 383,
+    "timeWeek": 292,
+    "timeMonth": 295,
     "timeYear": 298,
     "dailyMinutesDown": {}
   }
