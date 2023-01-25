@@ -4,10 +4,10 @@
     "url": "https://naupahouse.com",
     "icon": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/sony/336/bed_1f6cf-fe0f.png",
     "slug": "naupa-house",
-    "status": "up",
+    "status": "down",
     "uptime": "99.31%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.31%",
     "time": 1177,
@@ -16,6 +16,7 @@
     "timeMonth": 1229,
     "timeYear": 1177,
     "dailyMinutesDown": {
+      "2023-01-25": 1,
       "2022-12-03": 1091,
       "2022-12-02": 741
     }
