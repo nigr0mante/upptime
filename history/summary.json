@@ -4,10 +4,10 @@
     "url": "https://naupahouse.com",
     "icon": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/sony/336/bed_1f6cf-fe0f.png",
     "slug": "naupa-house",
-    "status": "up",
+    "status": "down",
     "uptime": "98.68%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.43%",
     "time": 1212,
@@ -16,6 +16,7 @@
     "timeMonth": 1199,
     "timeYear": 1221,
     "dailyMinutesDown": {
+      "2024-01-06": 1,
       "2023-11-30": 1028,
       "2023-11-29": 1440,
       "2023-11-28": 487,
@@ -33,9 +34,9 @@
     "url": "http://coffee.naupahouse.com",
     "icon": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/sony/336/hot-beverage_2615.png",
     "slug": "coffee-senses-testing",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -45,6 +46,7 @@
     "timeMonth": 271,
     "timeYear": 283,
     "dailyMinutesDown": {
+      "2024-01-06": 0,
       "2023-01-25": 19
     }
   }
