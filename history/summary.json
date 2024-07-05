@@ -5,18 +5,18 @@
     "icon": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/sony/336/bed_1f6cf-fe0f.png",
     "slug": "naupa-house",
     "status": "down",
-    "uptime": "97.69%",
+    "uptime": "97.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "69.08%",
-    "uptimeYear": "96.86%",
+    "uptimeMonth": "68.90%",
+    "uptimeYear": "96.85%",
     "time": 1208,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 1221,
     "timeYear": 1196,
     "dailyMinutesDown": {
-      "2024-07-05": 39,
+      "2024-07-05": 115,
       "2024-07-04": 1440,
       "2024-07-03": 1440,
       "2024-07-02": 1440,
@@ -37,7 +37,7 @@
     "url": "http://coffee.naupahouse.com",
     "icon": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/sony/336/hot-beverage_2615.png",
     "slug": "coffee-senses-testing",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -48,6 +48,8 @@
     "timeWeek": 300,
     "timeMonth": 295,
     "timeYear": 281,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-05": 0
+    }
   }
 ]
