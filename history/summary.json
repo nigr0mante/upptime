@@ -5,18 +5,19 @@
     "icon": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/sony/336/bed_1f6cf-fe0f.png",
     "slug": "naupa-house",
     "status": "down",
-    "uptime": "63.32%",
+    "uptime": "63.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 1187,
+    "time": 1185,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-26": 59,
+      "2025-07-27": 67,
+      "2025-07-26": 1440,
       "2025-07-25": 1440,
       "2025-07-24": 1440,
       "2025-07-23": 1440,
@@ -379,8 +380,7 @@
       "2024-07-31": 1440,
       "2024-07-30": 1440,
       "2024-07-29": 1440,
-      "2024-07-28": 1440,
-      "2024-07-27": 1440
+      "2024-07-28": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/sony/336/hot-beverage_2615.png",
     "slug": "coffee-senses-testing",
     "status": "down",
-    "uptime": "65.90%",
+    "uptime": "65.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "0.72%",
-    "time": 4073,
+    "uptimeYear": "0.66%",
+    "time": 4118,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 9194,
+    "timeYear": 9663,
     "dailyMinutesDown": {
-      "2025-07-26": 59,
+      "2025-07-27": 67,
+      "2025-07-26": 1440,
       "2025-07-25": 1440,
       "2025-07-24": 1440,
       "2025-07-23": 1440,
@@ -763,8 +764,7 @@
       "2024-07-31": 955,
       "2024-07-30": 274,
       "2024-07-29": 1080,
-      "2024-07-28": 1294,
-      "2024-07-27": 1041
+      "2024-07-28": 1294
     }
   }
 ]
